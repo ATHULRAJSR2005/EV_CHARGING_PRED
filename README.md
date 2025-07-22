@@ -1,2 +1,2 @@
-# week1_EV_CHARGING_PRED
+# EV_CHARGING_PRED
 AICTE Internship Cycle 2
